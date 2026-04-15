@@ -66,4 +66,7 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 
+![stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Seona12&show_icons=true&theme=transparent)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=vustjsdk1)](https://solved.ac/vustjsdk1)
+
 </div>
